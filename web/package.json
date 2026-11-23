@@ -1,0 +1,11 @@
+{
+  "name": "sunny-classroom-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "阳光学堂学习平台浏览器 Web 版（本地部署）",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node tests/smoke.test.js"
+  }
+}
